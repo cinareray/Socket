@@ -1,0 +1,2 @@
+/home/ec2-user/socket/lib/CMakeFiles/mylib.dir
+/home/ec2-user/socket/CMakeFiles/server.dir

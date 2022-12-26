@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ec2-user/socket/test/Server.cpp
+sServer.h
+/home/ec2-user/socket/test/sServer.h
+csignal
+-
+iostream
+-
+limits
+-
+
+lib/include/sServer.h
+iostream
+-
+string.h
+-
+string
+-
+winsock2.h
+-
+ws2tcpip.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+netinet/in.h
+-
+
